@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ctvaan
+- 👋 Hi, I’m Cam
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Git, JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on web projects
