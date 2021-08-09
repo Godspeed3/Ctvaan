@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cam
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Git, JavaScript, HTML, CSS
+- 🌱 I’m currently learning Git, JavaScript, HTML, CSS, Java
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ctvaan@gmail.com
 
